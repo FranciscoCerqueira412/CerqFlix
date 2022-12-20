@@ -403,6 +403,16 @@ aside .open-questions label{
 label::after{
     font-size: 20px;
 }
+footer{
+    padding: 50px;
+}
+footer ul{
+    columns: 2;
+}
+footer ul li a{
+    font-size: 9px;
+
+}
 
 }
 
